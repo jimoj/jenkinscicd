@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Welcome to Allianz Maven plugin test with docker!!!!" );
+        System.out.println( "Welcome to Allianz Maven plugin test with docker !!!!" );
     }
 }
